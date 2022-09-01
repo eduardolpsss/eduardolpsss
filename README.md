@@ -1,5 +1,12 @@
 ### Hi there 👋
 <br>
+
+- 👨‍🎓 Computer Science student - 8th semester (some repos are currently private).
+- 💻 I'm focusing on studies and projects concerning both front and back-end area.
+- 👤 my react <a href="https://eduardopontes.netlify.app/">portifolio page</a>.
+
+<br>
+
 <div align="center">
     <a href="https://github.com/eduardolpsss">
         <img height="140em"
@@ -8,7 +15,9 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolpsss&layout=compact&langs_count=7&theme=radical" />
     </a>
 </div>
+
 <br>
+
 <div align="center"><br>
     <img align="center" alt="Rafa-HTML" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,9 +34,9 @@
     <img align="center" alt="Rafa-C" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+
 <br><br>
-- 👤 my react <a href="https://eduardopontes.netlify.app/">portifolio page</a>.
-<br><br>
+
 <div align="center">
     <a href="mailto:eduardo.pontes2801@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
