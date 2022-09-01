@@ -27,7 +27,7 @@
 </div>
 <br><br>
 - 👤 my react <a href="https://eduardopontes.netlify.app/">portifolio page</a>.
-
+<br>
 <div align="center">
     <a href="mailto:eduardo.pontes2801@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
