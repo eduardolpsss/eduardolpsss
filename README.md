@@ -1,8 +1,8 @@
 ### Hi there 👋
 <br>
 
-- 👨‍🎓 Computer Science student - 8th semester (some repos are currently private).
-- 💻 I'm focusing on studies and projects concerning both front and back-end area.
+- 👨‍🎓 I'm a Computer Science student - 8th semester (some repos are currently private).
+- 💻 Now I'm focusing on studies and projects concerning both front and back-end area.
 - 👤 My React.js <a href="https://eduardopontes.netlify.app/">portifolio page</a>.
 
 <br>
