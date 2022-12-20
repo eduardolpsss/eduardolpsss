@@ -1,8 +1,8 @@
 ### Hi there 👋
 <br>
 
-- 👨‍🎓 I'm a Computer Science student - 8th semester (some repos are currently private).
-- 💻 Now I'm focusing on studies and projects concerning both front and back-end area.
+- 👨‍🎓 I'm a Computer Science student (some repos are currently private).
+- 💻 I'm focusing on fulstack projects (concerning both server-side and client-side).
 
 <br>
 
