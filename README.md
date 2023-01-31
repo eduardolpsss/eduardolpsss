@@ -1,5 +1,3 @@
-<div align="center">Hi there 👋</div>  
-
 ## Sobre mim
 
 - 👨‍🎓 Formado em Ciência da Computação pela Universidade Católia de Brasília (alguns dos meus repositórios estão atualmente privados).
