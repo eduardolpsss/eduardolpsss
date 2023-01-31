@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 👨‍🎓 Desenvolvedor full-stack com bacharelado em Ciência da Computação pela UCB (alguns dos meus repositórios estão atualmente privados).
+- 👨‍🎓 Formado em Ciência da Computação pela Universidade Católia de Brasília (alguns dos meus repositórios estão atualmente privados).
 
 - 💻 Atualmente estou focando no desenovolvimento web, principalmente usando PHP (Laravel) e React.
 
