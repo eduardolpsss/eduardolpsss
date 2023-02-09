@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Formado em Ciência da Computação pela Universidade Católia de Brasília (alguns dos meus repositórios estão atualmente privados).
 
-- 💻 Atualmente estou focando no desenovolvimento web, principalmente usando PHP (Laravel) e React.
+- 💻 Atualmente estou focando no desenovolvimento web usando React no front-end. 
 
 <br>
 
