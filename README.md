@@ -17,8 +17,14 @@
 <br>
 
 <div align="center">
-👤 Meu <a href="https://eduardopontes.netlify.app/">portifólio React</a>.
+👤 <a href="https://eduardopontes.netlify.app/">Meu portifólio</a>.
 </div>
+
+<br><br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucazx&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
+</div>  
 
 <br><br>
 
