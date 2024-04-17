@@ -1,14 +1,16 @@
-## Sobre mim
+## Oi, me chamo Eduardo!
 
-- 👨‍🎓 Formado em Ciência da Computação pela Universidade Católia de Brasília (alguns dos meus repositórios estão atualmente privados).
+- 👨‍🎓 Sou formado em Ciência da Computação pela Universidade Católica de Brasília, tenho uma paixão pelo desenvolvimento fullstack. Minha jornada profissional começou em 2021, e desde então venho desenvolvendo projetos pessoais e acadêmicos. Possuo conhecimentos sólidos e experiência profissional com TypeScript e React, bem como experiências no desenvolvimento back-end.
 
-- 💻 Atualmente atuando no desenovolvimento usando TypeScript e React. 
+- 💻 Atualmente sigo me aprimorando no desenvolvimento de softwares complexos  e na criação de testes unitários que possam garantir funcionalidade. Estou sempre em constante busca por melhorias e aprendizado contínuo na área. 
 
 <hr />
 
-- 👨‍🎓 I have a degree in Computer Science from the Universidade Católia de Brasília (some of my repositories are currently private).
+## Hi, I'm Eduardo!
 
-- 💻 Currently working on development using TypeScript and React.
+- 👨‍🎓 I have a degree in Computer Science from the Catholic University of Brasilia and a passion for fullstack development. My professional journey began in 2021, and since then I've been developing personal and academic projects. I have solid knowledge and professional experience with TypeScript and React, as well as experience in back-end development.
+
+- 💻 I'm currently working on developing complex software and creating unit tests that can guarantee functionality. I'm always on the lookout for improvements and continuous learning in the area..
 
 <hr />
 
